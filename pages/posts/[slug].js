@@ -24,7 +24,7 @@ export default function Post({ post, morePosts, preview }) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="mb-32 mt-5">
               <Head>
                 <title>
                   {post.title} |Cryptogamers

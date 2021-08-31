@@ -26,7 +26,7 @@ export default function Footer() {
                 CryptoGamers
               </h1>
             </div>
-            <p className="text-left mt-5 text-lg">
+            <p className="text-center mt-5 text-lg">
                 Comunidad de Juegos NFT - P2E. 
             </p>
           </div>

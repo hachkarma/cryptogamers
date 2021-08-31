@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 export default function HomeAd() {
     return (
-      <section className="section mb-20 mt-16">
+      <section className="section mb-10 lg:mb-20 mt-8 lg:mt-16">
           <div className="bg-gradient-to-r from-green-400 to-blue-500 shadow-lg p-5 flex flex-col items-center justify-center xl:p-10">
                 <h2 className="font-sans xl:text-4xl text-xl font-extralight text-white">
                     Únete a nuestro discord
