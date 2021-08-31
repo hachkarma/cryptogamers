@@ -68,7 +68,7 @@ export default function Footer() {
 
 
           <div className="col-span-4">
-            <iframe src="https://discordapp.com/widget?id=866815045069045780&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+          <iframe src="https://discordapp.com/widget?id=866815045069045780&theme=dark" width="335" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
           </div>
 				
           
