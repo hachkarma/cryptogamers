@@ -15,11 +15,11 @@ ogImage:
 
 En esta guía de introducción a PVU veremos dos de los métodos más óptimos para empezar como "granjeros". Como ya       sabréis la inversión mínima para entrar a PVU  como granjero, será de 5 PVU (350 LE al cambio). 
 
-**ESTOS CALCULOS ESTAN BASADOS EN EL FARMEO SIN DIARIO NI SUNBOX**
+**ESTOS CALCULOS ESTAN BASADOS EN EL FARMEO SIN DIARIA NI SUNBOX**
 
 **Contando que la diaria funcione bien, seguramente, la granja la tengas a "full rendimiento" antes de los primeros 6 días. He elegido el girasol madre, porque, es más práctico al tener que recolectarlo a los 6 días**
 
-**IMPORTANTE!! TODO PUEDE VARIAR DEPENDIENDO DE LAS RECOMPENSAS OBTENIDAS EN LA SUNBOW**
+**IMPORTANTE!! TODO PUEDE VARIAR DEPENDIENDO DE LAS RECOMPENSAS OBTENIDAS EN LA SUNBOX**
 
  
  
@@ -27,6 +27,7 @@ En esta guía de introducción a PVU veremos dos de los métodos más óptimos p
 
         
         1 PVU = 70 LE (repito, la inversión mínima para cambiar de PVU a LE son de 5 PVU)
+
         100 LE = 1 PVU ( Al cambiar de LE a PVU nos cobrarán un 5% del total de LE que queramos cambiar a PVU).
 
 ## Método más económico
@@ -39,15 +40,15 @@ Con este método, empezaremos con un la inversión mínima (5 PVU):
   
  - También, una maceta PEQUEÑA, para poder plantar nuestras "plantas temporales" (1 maceta por planta).
  - 
- - En la parte superior, al lado del apartado "tools" tenemos el menú para comprar retoños, girasoles y sunbox. 
+ - En la parte superior, al lado del apartado "tools" tenemos el menú para comprar retoños, girasoles madre y sunbox. 
    Compraremos 1 girasol madre por 200 LE.
 
- - En la pantalla principal, clickaremos al (+), para empezar el proceso de añadir una land y posteriormente nuestras         plantas.
+ - En la pantalla principal, clickaremos al (+), para empezar el proceso de añadir una tierra y posteriormente nuestras plantas.
  - 
  - En el menú superior del medio de la pantalla, iremos al menú de "SUNFLOWER", y allí seleccionaremos nuestro girasol madre
-   (del mismo modo, se irá haciendo, conforme vayas obteniendo unos retoños, o tengas que volver a plantar).
+   (del mismo modo, se irá haciendo, conforme vayas obteniendo retoños, o tengas que volver a plantar).
 
- - Volveremos de nuevo al menú principal. Colocaremos 1 maceta (PEQUEÑA) por planta, y regaremos cada planta 2 veces (las     plantas se resetean cada 23 a 25 horas. De esta forma, hay que regarlas de nuevo 2 veces, en casa reset).
+ - Volveremos de nuevo al menú principal. Colocaremos 1 maceta (PEQUEÑA) por planta, y regaremos cada planta 2 veces (las plantas se resetean cada 23 a 25 horas. De esta forma, hay que regarlas de nuevo 2 veces, en cada reset).
 
 
 
@@ -55,7 +56,7 @@ Con este método, empezaremos con un la inversión mínima (5 PVU):
 
 Con este método, empezaremos con la granja a pleno rendimiento (x5 Retoños, x1 Girasol madre). necesitaremos un total de 16 PVU (1120LE):
 
-- Cambiaremos los 16 PVU for 1120 LE.
+- Cambiaremos los 16 PVU por 1120 LE.
 
 - Compraremos 1 stack de 100 aguas (50LE), 6 macetas (300LE), 1 stack de 20 espantapájaros (20LE).
 
