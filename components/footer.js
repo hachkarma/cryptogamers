@@ -9,7 +9,7 @@ export default function Footer() {
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center grid grid-cols-3 gap-8">
 
-          <div className="">
+          <div className="col-span-4">
             <div className="col-start-1 col-span-12 flex items-center justify-center">
               <Image
                 src='/images/logo.png'
@@ -25,21 +25,18 @@ export default function Footer() {
               <h1 className="text-2xl md:text-4xl font-bold tracking-tighter leading-tight md:pr-8 pl-4">
                 CryptoGamers
               </h1>
-
-              
             </div>
-
             <p className="text-left mt-5 text-lg">
                 Comunidad de Juegos NFT - P2E. 
-              </p>
+            </p>
           </div>
 
-          <div className="">
+          <div className="col-span-4">
             {/* <h4 className="">
               Últimos posts
             </h4> */}
 
-            <div class="bg-gray-50 flex items-center justify-center px-16">
+            {/* <div class="bg-gray-50 flex items-center justify-center px-16">
               <div class="relative w-full max-w-lg">
                 <div class="absolute top-0 -left-4 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob "></div>
                 <div class="absolute top-0 -right-4 w-72 h-72 bg-yellow-300 rounded-full mix-blend-multiply filter blur-xl opacity-70 animate-blob animation-delay-2000"></div>
@@ -65,12 +62,12 @@ export default function Footer() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
 
 
-          <div className="">
+          <div className="col-span-4">
             <iframe src="https://discordapp.com/widget?id=866815045069045780&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
           </div>
 				
