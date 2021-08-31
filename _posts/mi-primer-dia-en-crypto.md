@@ -1,13 +1,13 @@
 ---
-title: 'Primeros pasos Plant vs Undead'
-excerpt: ''
-coverImage: '/assets/blog/primeros-pasos/puv-cover.jpg'
-date: '2020-08-30T15:35:07.322Z'
+title: 'Mi primer dia en crypto'
+excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+coverImage: '/assets/blog/mi-primer-dia-en-crypto/cover.png'
+date: '2020-03-16T05:35:07.322Z'
 author:
   name: Vicargo 
   picture: '/assets/blog/authors/vicargo.png'
 ogImage:
-  url: '/assets/blog/primeros-pasos/puv-cover.jpg'
+  url: '/assets/blog/mi-primer-dia-en-crypto/cover.png'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
